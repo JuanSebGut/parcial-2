@@ -1,0 +1,10 @@
+co\edu\usco\pw\springboot_crud01\security\SecurityConfiguration.class
+co\edu\usco\pw\springboot_crud01\service\TodoService.class
+co\edu\usco\pw\springboot_crud01\controller\LogoutController.class
+co\edu\usco\pw\springboot_crud01\SpringbootCrud01SpringBootApplication.class
+co\edu\usco\pw\springboot_crud01\controller\ErrorController.class
+co\edu\usco\pw\springboot_crud01\controller\TodoController.class
+co\edu\usco\pw\springboot_crud01\service\ITodoService.class
+co\edu\usco\pw\springboot_crud01\model\Todo.class
+co\edu\usco\pw\springboot_crud01\repository\TodoRepository.class
+co\edu\usco\pw\springboot_crud01\controller\WelcomeController.class
